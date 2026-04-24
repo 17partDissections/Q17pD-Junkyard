@@ -1,0 +1,243 @@
+﻿body {
+	background-image: url('images/structure/background/ciel.gif');
+	background-repeat: repeat;
+	padding: 50px;
+	margin: 0px;
+	position: relative;
+	overflow: auto;
+	font-family: Consolas, monospace;
+	font-size: 100%;
+	color: #FFDAB9;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+}
+#banner_outline {
+	background-image: url('images/structure/banner/banner_outline_orange.png');
+	background-repeat: no-repeat;
+	background-position: center top;
+	margin: 0px auto 0px auto;
+	padding: 0px;
+	width: 984px;
+	height: 214px;
+	position: relative;
+	overflow: hidden;
+}
+#banner {
+	background-image: url('images/structure/banner/banner.png');
+	background-repeat: no-repeat;
+	background-position: center top;
+	margin: 0px auto 0px auto;
+	padding: 0px;
+	width: 978px;
+	height: 142px;
+	position: relative;
+	overflow: hidden;
+	top: 17px;
+}
+#logo {
+    /*background-image: url('images/structure/arcueid_smug0.png');
+    background-size: 125px 125px;*/
+    background-repeat: no-repeat;
+    padding: 0px;
+    margin: 20px 0px 0px 0px;
+    width: 125px;
+    height: 125px;
+    position: relative;
+	font-size: 10px;
+    line-height: 1;
+    white-space: pre;
+    color: #000;
+}
+#bottomer {
+    position: relative;
+    min-height: 100%;
+}
+
+#bottom-notes {
+    background-image: url('images/structure/wrapper.png');
+    background-repeat: no-repeat;
+    width: 900px;
+    color: #FF8D00;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 20px 0;
+}
+
+
+
+#navBox {
+	padding: 0px;
+	margin: 0px auto 0px auto;
+	width: 896px;
+	height: 32px;
+	position: relative;
+	top: 21px;
+}
+#navBoxmenu {
+	margin: 0px auto 0px auto;
+	padding: 0px;
+	width: 730px;
+	height: 32px;
+	position: relative;
+	overflow: hidden;
+	list-style-type: none;
+	clear: left;
+}
+#navBoxmenu ul {
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+#navBoxmenu ul li {
+	padding: 0px;
+	margin: 0px 2px 0px 45px;
+	width: 124px;
+	height: 32px;
+	position: relative;
+	overflow: hidden;
+	float: left;
+	text-align: center;
+	line-height: 200%;
+}
+
+
+
+a.button {
+	background: url('images/structure/button.png') no-repeat 0 0;
+	width: 124px;
+	height: 32px;
+	display: block;
+	color: #000;
+	font-size: 16px;
+    text-align: center;
+    line-height: 32px;
+	text-decoration: none;
+}
+a.button:hover {
+	background-position: 0 -32px;
+	color: #ffffff;
+	text-decoration: none;
+}
+a.button:active {
+	background-position: 0 -32px;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+
+
+.float-R {
+	padding: 0px;
+	margin: 5px 0px 5px 5px;
+	position: relative;
+	float: right;
+	overflow: hidden;
+}
+.float-L {
+	padding: 0px;
+	margin: 5px 5px 5px 0px;
+	position: relative;
+	float: left;
+	overflow: hidden;
+}
+
+
+
+a:active {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	color: #333333;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+	color: #666666;
+}
+
+
+
+.cnt-box {
+    padding: 0px;
+    margin: 0px auto 15px auto;
+    width: 710px;
+    position: relative;
+    overflow: hidden;
+}
+.cnt-boxTop {
+    background-image: url('images/structure/block/block_top.png');
+	background-repeat: no-repeat;
+    background-position: center top;
+	width: 710px;
+	height: 65px;
+    text-align: left;
+    line-height: 300%;
+    font-size: 200%;
+    text-indent: 25px;
+    color: #000;
+	overflow: hidden;
+}
+.cnt-boxFiller {
+    background-image: url('images/structure//block/block_filler.png');
+    background-repeat: repeat-y;
+    background-position: center top;
+    padding: 0px;
+    margin: 0px auto;
+    width: 710px;
+    position: relative;
+    overflow: hidden;
+}
+.cnt-boxbottom {
+    background-image: url('images/structure/block/block_bottom.png');
+    background-repeat: no-repeat;
+    background-position: center top;
+    width: 710px;
+    height: 55px;
+    margin: 0 auto;
+	overflow: hidden;
+}
+.cnt-boxInfo {
+	border-top: 2px solid #FF8D00;
+	padding-top: 1rem;
+    padding: 0px;
+    margin: 0px auto;
+    width: 664px;
+    position: relative;
+    color: #333333;
+    overflow: hidden;
+    font-size: 90%;
+	line-height: 0.3;
+}
+.cnt-boxInfo h1 {
+    font-size: 160%;
+    margin: 5px 0 10px 0;
+    color: #FF8D00;
+    letter-spacing: -0.5px;
+	line-height: 1;
+}
+.cnt-boxInfo h4 {
+    margin: 0 0 5px 0;
+    font-family: monospace;
+    font-size: 85%;
+    letter-spacing: 1px;
+	line-height: 2;
+}
+.cnt-boxInfo p {
+    margin: 10px 0 0 0;
+    line-height: 1.5;
+}
+.cnt-boxInfo img {
+    margin: 0 0 10px 20px;
+    border: 2px solid #FF8D00;
+    background: #FFF;
+    padding: 3px;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+}
