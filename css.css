@@ -1,5 +1,5 @@
 ﻿body {
-	background-image: url('images/structure/background/ciel.gif');
+	background-image: url('/Q17pD-Junkyard/images/structure/background/ciel.gif');
 	background-repeat: repeat;
 	padding: 50px;
 	margin: 0px;
@@ -15,7 +15,7 @@
 	text-decoration: none;
 }
 #banner_outline {
-	background-image: url('images/structure/banner/banner_outline_orange.png');
+	background-image: url('/Q17pD-Junkyard/images/structure/banner/banner_outline_orange.png');
 	background-repeat: no-repeat;
 	background-position: center top;
 	margin: 0px auto 0px auto;
@@ -26,7 +26,7 @@
 	overflow: hidden;
 }
 #banner {
-	background-image: url('images/structure/banner/banner.png');
+	background-image: url('/Q17pD-Junkyard/images/structure/banner/banner.png');
 	background-repeat: no-repeat;
 	background-position: center top;
 	margin: 0px auto 0px auto;
@@ -38,7 +38,7 @@
 	top: 17px;
 }
 #logo {
-    /*background-image: url('images/structure/arcueid_smug0.png');
+    /*background-image: url('/Q17pD-Junkyard/images/structure/arcueid_smug0.png');
     background-size: 125px 125px;*/
     background-repeat: no-repeat;
     padding: 0px;
@@ -57,7 +57,7 @@
 }
 
 #bottom-notes {
-    background-image: url('images/structure/wrapper.png');
+    background-image: url('/Q17pD-Junkyard/images/structure/wrapper.png');
     background-repeat: no-repeat;
     width: 900px;
     color: #FF8D00;
@@ -109,7 +109,7 @@
 
 
 a.button {
-	background: url('images/structure/button.png') no-repeat 0 0;
+	background: url('/Q17pD-Junkyard/images/structure/button.png') no-repeat 0 0;
 	width: 124px;
 	height: 32px;
 	display: block;
@@ -172,7 +172,7 @@ a:hover {
     overflow: hidden;
 }
 .cnt-boxTop {
-    background-image: url('images/structure/block/block_top.png');
+    background-image: url('/Q17pD-Junkyard/images/structure/block/block_top.png');
 	background-repeat: no-repeat;
     background-position: center top;
 	width: 710px;
@@ -185,7 +185,7 @@ a:hover {
 	overflow: hidden;
 }
 .cnt-boxFiller {
-    background-image: url('images/structure//block/block_filler.png');
+    background-image: url('/Q17pD-Junkyard/images/structure//block/block_filler.png');
     background-repeat: repeat-y;
     background-position: center top;
     padding: 0px;
@@ -195,7 +195,7 @@ a:hover {
     overflow: hidden;
 }
 .cnt-boxbottom {
-    background-image: url('images/structure/block/block_bottom.png');
+    background-image: url('/Q17pD-Junkyard/images/structure/block/block_bottom.png');
     background-repeat: no-repeat;
     background-position: center top;
     width: 710px;
