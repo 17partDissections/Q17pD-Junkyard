@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       </div>
 	  <div class="badges8831">
 			<a href="https://www.mirc.com"target="_blank"><img src="/Q17pD-Junkyard/assets/gifs/badges/mirc.gif" width="88" height="31"></a>
-			<a href="https://scpfoundation.net"target="_blank"><img src="/Q17pD-Junkyard/assets/gifs/badges/scp.gif" width="88" height="31"></a>
+			<a href="https://scp-wiki.wikidot.com"target="_blank"><img src="/Q17pD-Junkyard/assets/gifs/badges/scp.gif" width="88" height="31"></a>
 			<img src="/Q17pD-Junkyard/assets/gifs/badges/bluepantsu.gif" width="88" height="31">
 			<a href="https://www.blender.org"target="_blank"><img src="/Q17pD-Junkyard/assets/gifs/badges/blender.gif" width="88" height="31"></a>
 			<a href="https://www.win-rar.com"target="_blank"> <img src="/Q17pD-Junkyard/assets/gifs/badges/winrar.gif" width="88" height="31"></a>
