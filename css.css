@@ -1,5 +1,5 @@
 ﻿body {
-    background-image: url('/Q17pD-Junkyard/assets/images/structure/background/ciel.png');
+    background-image: url('/assets/images/structure/background/ciel.png');
     background-repeat: repeat;
     padding: 50px;
     margin: 0px;
@@ -30,7 +30,7 @@
 
 
 #banner_outline {
-    background-image: url('/Q17pD-Junkyard/assets/images/structure/banner/banner_outline_orange.png');
+    background-image: url('/assets/images/structure/banner/banner_outline_orange.png');
     background-repeat: no-repeat;
     background-position: center top;
     margin: 0px auto 0px auto;
@@ -41,7 +41,7 @@
     overflow: hidden;
 }
 #banner {
-    background-image: url('/Q17pD-Junkyard/assets/images/structure/banner/banner.png');
+    background-image: url('/assets/images/structure/banner/banner.png');
     background-repeat: no-repeat;
     background-position: center top;
     margin: 0px auto 0px auto;
@@ -69,7 +69,7 @@
     text-align: center;
 }
 #bottom-notes {
-    background-image: url('/Q17pD-Junkyard/assets/images/structure/wrapper.png');
+    background-image: url('/assets/images/structure/wrapper.png');
     background-repeat: no-repeat;
     background-position: center;
     width: 600px;
@@ -118,7 +118,7 @@
 
 
 a.button {
-    background: url('/Q17pD-Junkyard/assets/images/structure/button.png') no-repeat 0 0;
+    background: url('/assets/images/structure/button.png') no-repeat 0 0;
     width: 124px;
     height: 32px;
     display: block;
@@ -166,7 +166,7 @@ a.button:active {
     overflow: hidden;
 }
 .cnt-boxTop {
-    background-image: url('/Q17pD-Junkyard/assets/images/structure/block/block_top.png');
+    background-image: url('/assets/images/structure/block/block_top.png');
     background-repeat: no-repeat;
     background-position: center top;
     width: 710px;
@@ -179,7 +179,7 @@ a.button:active {
     overflow: hidden;
 }
 .cnt-boxFiller {
-    background-image: url('/Q17pD-Junkyard/assets/images/structure/block/block_filler.png'); /* исправлен двойной слеш */
+    background-image: url('/assets/images/structure/block/block_filler.png'); /* исправлен двойной слеш */
     background-repeat: repeat-y;
     background-position: center top;
     padding: 0px;
@@ -189,7 +189,7 @@ a.button:active {
     overflow: hidden;
 }
 .cnt-boxbottom {
-    background-image: url('/Q17pD-Junkyard/assets/images/structure/block/block_bottom.png');
+    background-image: url('/assets/images/structure/block/block_bottom.png');
     background-repeat: no-repeat;
     background-position: center top;
     width: 710px;
